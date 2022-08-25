@@ -1,6 +1,5 @@
 ## Oie!! Tudo bem por ai??
-### Sou Isabella ou Isabollinha, tenho 21 anos e estou entrando na área de desenvolvimento!
-Ainda estou aprendendo (todos estamos em constante aprendizado, não é mesmo?) e espero poder trabalhar cada vez mais em mais projetos pessoais e profissionais.
+### Sou Isabella ou Isabollinha, tenho 21 anos e estou entrando na área de desenvolvimento e espero poder trabalhar cada vez mais em mais projetos pessoais e profissionais.
 
 ### Estou aprendendo
 
