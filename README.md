@@ -10,7 +10,8 @@ Antes de chegar na área de Desenvolvimento cursei Enfermagem por cinco semestre
 
 ### 🌱 Estou aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="40" height="40"/> 
+
 
 ### 📫 Minhas redes:
 
@@ -22,8 +23,8 @@ Antes de chegar na área de Desenvolvimento cursei Enfermagem por cinco semestre
 
 <sub>Icon por: <a href="https://twitter.com/cupofchasim?t=zLPdyI55EiHSRYvKySPHaw&s=09">@cupofchasim</a> </sub>
 
-
-
+## :bar_chart: GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-reis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!--
 **isabella-reis/isabella-reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
