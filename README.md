@@ -24,7 +24,7 @@ Antes de chegar na área de Desenvolvimento cursei Enfermagem por cinco semestre
 
 <sub>Icon por: <a href="https://twitter.com/cupofchasim?t=zLPdyI55EiHSRYvKySPHaw&s=09">@cupofchasim</a> </sub>
 
-## :bar_chart: GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-reis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!--
