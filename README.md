@@ -1,9 +1,8 @@
-## <h1 align='center'>✨Oie!! Sou Isabella ou Isabollinha, tenho 23 anos, sou de São Paulo e sou apaixonada por desenvolvimento!✨ </h1>
+## <h1 align='center'>✨Oie!! Sou Isabella ou Isabollinha, tenho 24 anos, sou de São Paulo e sou apaixonada por desenvolvimento!✨ </h1>
 
 <img src="https://user-images.githubusercontent.com/100042658/201796324-709db7d9-6f3c-4f74-a04d-7c42955a78b6.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left">
-<p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FMU! </p>
 <p>Entrei na área Tech fazendo lives enquanto aprendia a programar em JavaScript <i>(você pode dar uma olhadinha na minha Twitch no link ali embaixo!)</i>, por isso, acredito que a troca de conhecimentos é fundamental e tenho como objetivo contribuir para a nossa comunidade, compartilhando experiencias e ideias!</br>
 Antes de chegar na área de Desenvolvimento cursei Enfermagem por cinco semestres, atuando na área durante esse período. O que me ajudou a desenvolver minhas soft skills, aprimorando minha comunicação e trabalho em equipe!! :smiley:</p>
 </p>
